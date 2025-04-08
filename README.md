@@ -1,6 +1,6 @@
 ## Certificação
 
-Certificado de conclusão do curso **Como criar aplicativos do zero ao avançado, utilizando Flutter e Dart - Curso Completo**, oferecido gratuitamente pela plataforma [Curso em Vídeo](https://www.cursoemvideo.com) ou similar.
+Certificado de conclusão do curso **Como criar aplicativos do zero ao avançado, utilizando Flutter e Dart - Curso Completo**, oferecido gratuitamente pela plataforma [Cursa](https://cursa.app/pt) ou similar.
 
 **Curso:** Como criar aplicativos do zero ao avançado, utilizando Flutter e Dart  
 **Duração:** 15h40min (aulas em áudio)  
